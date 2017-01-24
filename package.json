@@ -8,16 +8,13 @@
   },
   "repository": {
   "type": "git",
-  "url": "git+https://github.com/lennyup/react-native-upgrade.git"
+  "url": "git+https://github.com/lennyup/react-native-upgrade-android.git"
 },
 "keywords": [
-  "react-native-pull",
-  "React Native",
-  "ScrollView",
-  "ListView",
-  "refresh",
-  "DropView",
-  "DropListView"
+  "react-native-upgrade",
+  "react-native-down",
+  "react native",
+  "upgrade",
 ],
   "author": "lenny",
   "license": "ISC"
