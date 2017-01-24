@@ -1,0 +1,24 @@
+{
+  "name": "react-native-upgrade",
+  "version": "1.0.0",
+  "description": "A third-party library for updating the version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+  "type": "git",
+  "url": "git+https://github.com/lennyup/react-native-upgrade.git"
+},
+"keywords": [
+  "react-native-pull",
+  "React Native",
+  "ScrollView",
+  "ListView",
+  "refresh",
+  "DropView",
+  "DropListView"
+],
+  "author": "lenny",
+  "license": "ISC"
+}
