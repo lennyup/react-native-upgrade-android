@@ -1,5 +1,5 @@
 {
-  "name": "react-native-upgrade",
+  "name": "react-native-upgrade-android",
   "version": "1.0.0",
   "description": "A third-party library for updating the version",
   "main": "index.js",
@@ -7,15 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-  "type": "git",
-  "url": "git+https://github.com/lennyup/react-native-upgrade-android.git"
-},
-"keywords": [
-  "react-native-upgrade",
-  "react-native-down",
-  "react native",
-  "upgrade",
-],
+    "type": "git",
+    "url": "git+https://github.com/lennyup/react-native-upgrade-android.git"
+  },
+  "keywords": [
+    "react-native-upgrade"
+  ],
   "author": "lenny",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lennyup/react-native-upgrade-android/issues"
+  },
+  "homepage": "https://github.com/lennyup/react-native-upgrade-android#readme"
 }
