@@ -89,7 +89,7 @@ componentDidMount() {
 }
 ```
 
-#### WeiboAPI.startDownLoad(downloadUrl, version, fileName)
+#### Upgrade.startDownLoad(downloadUrl, version, fileName)
 
 开始下载
 
